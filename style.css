@@ -2,7 +2,7 @@
 body {
     background-color:rgb(65, 100, 216);
 }
-    /* Sets the font and clor for the header */
+    /* Sets the font and color for the header */
 h1 {
     color: rgb(46, 36, 189);
     font-family: 'Brush Script MT' ;
@@ -17,5 +17,6 @@ h3 {
     color: rgb(0, 183, 255);
     font-family: Courier New ;
 }
+
 
 
