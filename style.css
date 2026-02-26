@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(65, 100, 216);
+    color: rgb(0, 255, 106);
+}
+    /* Sets the font and clor for the header */
+h1 {
+    color: rgb(46, 36, 189);
+    font-family: 'Brush Script MT' ;
+}
+    /* Sets the font and color for the paragraph */
+p {
+    color: rgb(150, 152, 245);
+    font-family: Georgia ;
+}
+    /* Sets font and color for second header*/
+h3 {
+    color: rgb(0, 183, 255);
+    font-family: Courier New ;
+}
+
