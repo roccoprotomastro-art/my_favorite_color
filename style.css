@@ -1,6 +1,6 @@
+/* Sets the background color of the website*/
 body {
     background-color:rgb(65, 100, 216);
-    color: rgb(0, 255, 106);
 }
     /* Sets the font and clor for the header */
 h1 {
@@ -17,4 +17,5 @@ h3 {
     color: rgb(0, 183, 255);
     font-family: Courier New ;
 }
+
 
